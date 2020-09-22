@@ -1,0 +1,48 @@
+#lol {
+    padding: 0;
+    margin: 0;
+    background-color: #1e1e1e;
+}
+
+.intro {
+    margin-top: 7%;
+    color: #e3e3e3;
+}
+
+.image {
+    width: 100%;
+}
+
+h1 {
+    font-family: 'Francois One', sans-serif;
+}
+
+h3, h4 {
+    font-family: 'Amatic SC', cursive;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.boundary {
+    margin: 2% 2%;
+    color: #1e1e1e;
+}
+
+#contact {
+    padding-left: 2%;
+}
+
+.text {
+    color: #e3e3e3;
+    padding: 0;
+}
+
+.blogs {
+    padding-left: 2%;
+}
+
+a {
+    color: inherit;
+}
