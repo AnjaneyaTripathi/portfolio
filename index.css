@@ -1,48 +1,44 @@
 #lol {
-    padding: 0;
-    margin: 0;
-    background-color: #1e1e1e;
-}
-
-.intro {
-    margin-top: 7%;
-    color: #e3e3e3;
-}
-
-.image {
-    width: 100%;
-}
-
-h1 {
-    font-family: 'Francois One', sans-serif;
-}
-
-h3, h4 {
-    font-family: 'Amatic SC', cursive;
-}
-
-p {
+    background-color: #f1f1f1;
     font-family: 'Roboto', sans-serif;
 }
 
-.boundary {
-    margin: 2% 2%;
+.title-image {
+    width: 100%;
+}
+
+.intro {
+    padding: 4% 10%;
     color: #1e1e1e;
+    text-align: center;
 }
 
-#contact {
-    padding-left: 2%;
+.intro-text {
+    padding: 15% 0;
 }
 
-.text {
+.about {
+    padding: 4% 20%;
+    background-color: #1e1e1e;
     color: #e3e3e3;
-    padding: 0;
+    text-align: center;
 }
 
-.blogs {
-    padding-left: 2%;
+.contact {
+    background-color: #1e1e1e;
+    padding: 2% 20%;
+    text-align: center;
+    color: #e3e3e3;
 }
 
-a {
-    color: inherit;
+.contact-text {
+    padding: 2% 0;
+}
+
+h2, h3, h5 {
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-family: 'Josefin Slab', serif;
 }
